@@ -1,16 +1,16 @@
-#Elliot(Python Assistant)
+# Elliot(Python Assistant)
 
 ####    Hey ,this "ELLIOT" python bot using simple python code.We can open GUI apps using simple text.This is just experimental project we can add lot more features in it latter.
 
 ## Used librararies and features
  
-###1)OS (import os) 
+### 1)OS (import os) 
           we imported os module  to communicate with our operating system that will helps us to open GUI apps.
     -syntax:       os.system(app_name)
 This is how we can os module to open apps.
 In some it apps are not opening using this Go in environmental variables then edit path of it and then insert path of application that you want to edit in new section. Click ok. Close cmd and try to rerun the program.
 
-###2)pyttsx3 (import pyttsx3)
+### 2)pyttsx3 (import pyttsx3)
     Using this module your code can actually speak. First import pyttsx3 and then use
  syntax:  pyttsx3.speak("statement") 
 Using this your system can able able to translate text to speech.
