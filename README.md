@@ -4,8 +4,8 @@
 
 ## Used librararies and features
  
-### 1)OS (import os) 
-          we imported os module  to communicate with our operating system that will helps us to open GUI apps.
+### 1)OS (import os)
+#### we imported os module  to communicate with our operating system that will helps us to open GUI apps.
     -syntax:       os.system(app_name)
 This is how we can os module to open apps.
 In some it apps are not opening using this Go in environmental variables then edit path of it and then insert path of application that you want to edit in new section. Click ok. Close cmd and try to rerun the program.
