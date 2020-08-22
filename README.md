@@ -11,8 +11,8 @@ This is how we can os module to open apps.
 In some it apps are not opening using this Go in environmental variables then edit path of it and then insert path of application that you want to edit in new section. Click ok. Close cmd and try to rerun the program.
 
 ### 2)pyttsx3 (import pyttsx3)
-    Using this module your code can actually speak. First import pyttsx3 and then use
- syntax:  pyttsx3.speak("statement") 
+  Using this module your code can actually speak. First import pyttsx3 and then use
+      -syntax:  pyttsx3.speak("statement") 
 Using this your system can able able to translate text to speech.
      If you are using anaconda then pytssx3 is inbuilt otherwise you can download or update using cmd
  command to install pyttsx3:
