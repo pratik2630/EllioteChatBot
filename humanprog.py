@@ -1,6 +1,6 @@
 import pyttsx3
 import os
-
+#This project is suitable to full screen cmd (font 24)
 pyttsx3.speak("Heyyy, Elliot this side. Your assistant  ")
 print()
 print()
