@@ -1,6 +1,6 @@
 # Elliot(Python Assistant)
 
-####    Hey ,this "ELLIOT" python bot using simple python code.We can open GUI apps using simple text.This is just experimental project we can add lot more features in it latter.
+####    Hey, this "ELLIOT" python bot using simple python code.We can open GUI apps using simple text.This is just experimental project we can add lot more features in it latter.
 
 ## Used librararies and features
  
